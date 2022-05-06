@@ -1,0 +1,25 @@
+{
+  "name": "majasdarbs",
+  "version": "1.0.0",
+  "description": "pedejais majasdarbs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANSBlv/-WEB_AUT_M-RIS_ANSBERGS.git"
+  },
+  "keywords": [
+    "majasdarbs"
+  ],
+  "author": "Maris Ansbergs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANSBlv/-WEB_AUT_M-RIS_ANSBERGS/issues"
+  },
+  "homepage": "https://github.com/MANSBlv/-WEB_AUT_M-RIS_ANSBERGS#readme",
+  "devDependencies": {
+    "cypress": "^9.6.0"
+  }
+}

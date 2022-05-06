@@ -1,0 +1,19 @@
+{
+    "name":"Chad",
+    "surname":"Bear",
+    "email":"chadBear@gmail.com",
+    "gender":"Other",
+    "phone":"1234567899",
+    "month":"February",
+    "year":"1930",
+    "subject":"Economics",
+    "hobbiesButton":"3",
+    "address":"stabu iela 1",
+    "state":"NCR{enter}",
+    "city":"Delhi{enter}",
+    "fullName":"Chad Bear",
+    "fullDateOfBirth":"28 February,1930",
+    "dateAndCity":"NCR Delhi",
+    "hobbies":"Music"
+
+}
